@@ -1,0 +1,2 @@
+# Resizer
+Resizer Azure Function
