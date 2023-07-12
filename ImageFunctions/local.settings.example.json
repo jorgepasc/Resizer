@@ -1,10 +1,10 @@
 {
   "IsEncrypted": false,
   "Values": {
-    "AzureWebJobsStorage": "<STORAGE_ACCOUNT_CONNECTION_STRING>",
+    "AzureWebJobsStorage": "DefaultEndpointsProtocol=https;EndpointSuffix=core.windows.net;AccountName=funcstorage28;AccountKey=muYY3wmH6Oo6jmPRtDQcF9IyIbrloK3bnAqCFWmH0a2U5Z35yvaOcqYuX5PaU40XLijqscGVR5Ij+AStbrkmgA==;BlobEndpoint=https://funcstorage28.blob.core.windows.net/;FileEndpoint=https://funcstorage28.file.core.windows.net/;QueueEndpoint=https://funcstorage28.queue.core.windows.net/;TableEndpoint=https://funcstorage28.table.core.windows.net/",
+    "datatype": "binary",
     "FUNCTIONS_WORKER_RUNTIME": "dotnet",
     "THUMBNAIL_CONTAINER_NAME": "thumbnails",
-    "THUMBNAIL_WIDTH": "100",
-    "datatype": "binary"
+    "THUMBNAIL_WIDTH": "100"
   }
 }
